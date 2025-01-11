@@ -2,7 +2,7 @@
 import Vehicle from './Vehicle.js';
 import Wheel from './Wheel.js';
 
-// The Motorbike class should extend the Vehicle class
+// TODO: The Motorbike class should extend the Vehicle class
 class Motorbike extends Vehicle {
   // TODO: Declare properties of the Motorbike class
   // TODO: The properties should include vin, color, make, model, year, weight, top speed, and wheels
