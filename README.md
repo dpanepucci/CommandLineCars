@@ -32,6 +32,7 @@ XLA
 
 ## Tests
 Be sure correct terminal is open.
+Use 'npm runn start" to begin application
 Install dependencies but typing 'npm i' into the command line.
 Ensure typescript is installed as well by typing in 'npm i -D typescript' into the terminal.
 
